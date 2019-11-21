@@ -1,20 +1,23 @@
-# Title
+# Augmented Reality Card Counter
 
 ## Executive Summary
 
-*Your executive summary should be pretty brief, under 3 paragraphs and should provide a concise summary of the purpose and contents of the rest of the document.  Explain to the reader what they will get from this document.*
+The Augmented Reality Card Counter is an augmented reality utility for use in smart accessories at poker tables. This ideally head-mounted program will systematically take note of what cards have been played, when they were played, and the order in the deck the remaining cards might be. 
 
 ## Business Objectives
 
-*Business objectives should offer the details for why the project is important.  Outline the goals of the project int he sense of the value it will bring and set expectations.  Keep your objectives measurable to avoid confusion in whether or not they have been met.*
+The main objective for this project is to provide an easy and discrete way for miscreants to cheat while gambling. This will allow for casinos to feed the inherant crave-act-reward cycle ever present in human nature. In turn, this will stimulate local economy which will trickle upwards to the national level. 
+This project will be finished on February 30th, 2021 with no further maintainence required afterwards. 
 
 ## Background
 
-*Provide any relevant background information regarding why this project is being initiated*
+With the introduction of anti-gambling laws and addiction programs, casinos that are not in any location named "Las Vegas" are taking an economic hit. Without extorting the unfortunate realities of human addiction, the local economies will suffer, with the upper echelons of corrupt corporations following suit. This product will not only fuel the craving by constantly rewarding the user with a win, it will give casinos leverage against them to use as a debt collection tool.
 
 ## Scope
 
-*The Scope section should outline what is and is not included as part of this project.  Oftentimes we make assumptions of features or functionality that is not necessarily required.  This is especially useful in a phased approach or when working on an existing system.*
+The project will include the following functionalities: image detection, card counting, probability algorithms, a backdoor for casinos to monitor, and empty promises. 
+
+The project will not include any hardware or promises of privacy. 
 
 ## Functional requirements
 
