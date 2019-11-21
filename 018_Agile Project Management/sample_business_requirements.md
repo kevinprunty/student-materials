@@ -24,30 +24,57 @@ The project will not include any hardware or promises of privacy.
 Image detection capabilities: 
 For image recognition, we will purchase the API by CHOOCH. This will save manpower and labor costs, completely cementing the fact that we do not care about the people working on this project. CHOOCH provides a REST API and recognizes objects in visual media. This includes during live video, which is what we will be doing by accessing the customer's camera without asking. 
 
-Card counting: 
-We will be using a futuristic artifical AI to memorize how to count cards in accordance to [this guide](https://www.blackjackapprenticeship.com/how-to-count-cards/)
+Card counting, probability algorithms: 
+We will be using a futuristic artifical AI to memorize how to count cards in accordance to [this guide](https://www.blackjackapprenticeship.com/how-to-count-cards/). Every time it gets something wrong, we will decut 25% of its total AI paycheck. In reality, it will never get paid, because we need to cut costs to pad the wallets of the executive suite. Also, because it is a software and not a people. 
+
+
+Empty promises: 
+const promise = new Promise();
+const promise2 = new Promise();
 
 
 ## Personnel requirements
 
-*In this section you may want to describe the composition of the team, do you need dedicated development?  how many people?  How about design or QA?  Think about what personnel is required to make this project a success, and place your recommendations here.*
+The team will consist of interns who will have to have 5+ years of professional experience and masters degrees in Business Analytics, Computer Science, and Ancient Greek History. 
+We will have a total of 3 of them, and they will all be responsible for the total of the software. 
+
+They will also be unpaid. 
 
 ## Delivery schedule
 
 *It's often helpful to break a project out into phases or milestones.  In this section list out any logical checkpoints where you would like to see the project demonstrated to ensure that expectations are being met.  Describe the phase, and the functional requirements required for completion.*
 
-## Other requirements
+### Phase 1 - November 20, 2019
+Allocate resources
+Set detailed plans
+Build up ambitions
+Fantasize about vacations
+Develop Gantt Charts
+Create Phase List
 
-*This section serves as a catch-all for any details that may not fit in other areas.  things like device or browser support, considerations for accessibility or inspiration for style.  Offer additional context here to ensure the project meets your vision*
+
+### Phase 2 - November 21, 2019
+Procrastinate
+Disappoint your boss
+Get fired
+Purchase licenses to use CHOOCH API
+
+### Phase 3 - February 2020
+Deliver project
+Find out the customer wanted something else
+Scrap everything and use Agile instead
+
 
 ## Assumptions
 
-*Oftentimes we are reliant on outside sources such as frameworks to be used, or services that our system will depend on.  In this section you should provide detail on any assumptions that you have made, such as the system being reliant on the availability of the Google Maps API.*
+CHOOCH API is readily available for the right price. This will be the main source of the functionality of our product. Developing the AI for card counting will require the use of this API. 
 
 ## Limitations
 
-*Identify any limitations in terms of time, personnel, technical details, or other things that limit the scope, time, and cost of the project being discussed.*
+Cost: Our budget is $0. 
+Project motivation: Driven by the busy life of a 24 year old who is currently sick. 
 
 ## Risks
 
-*Every project has inherent risks that may cause delay or even failure of a project.  You must identify this risks to show you know what they are, and also identify ways in which you would mitigate those risks.*
+Main risk is if the person who is evaluating the project as a whole doesn't find the idea even a little amusing. 
+This would cause a loss of time in finding someone who appreciates my sense of humor and lack of free time.
