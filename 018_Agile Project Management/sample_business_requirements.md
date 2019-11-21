@@ -21,7 +21,11 @@ The project will not include any hardware or promises of privacy.
 
 ## Functional requirements
 
-*This is where most of the detail should reside.  describe all of the required capabilities of the system in detail.  It is helpful to articulate features in terms of user capabilities.  Keep in mind that the features will be designed and developed off of these descriptions, so if you leave anything up to interpretation, you run the risk of the results not meeting your expectations.  You can also assume capabilities that are not mentioned here will not be included in the project, no matter how common or obvious they are.  You may want to break our subsections for each major feature to make the document more organized.*
+Image detection capabilities: 
+For image recognition, we will purchase the API by CHOOCH. This will save manpower and labor costs, completely cementing the fact that we do not care about the people working on this project. CHOOCH provides a REST API and recognizes objects in visual media. This includes during live video, which is what we will be doing by accessing the customer's camera without asking. 
+
+Card counting: 
+We will be using a futuristic artifical AI to memorize how to count cards in accordance to [this guide](https://www.blackjackapprenticeship.com/how-to-count-cards/)
 
 
 ## Personnel requirements
